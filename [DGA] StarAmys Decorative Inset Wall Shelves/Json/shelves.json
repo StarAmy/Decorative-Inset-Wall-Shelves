@@ -1,0 +1,612 @@
+[
+	{
+		"$ItemType": "Furniture",
+		"ID": "Decorative Single Inset Shelf Lower",
+		"Type": "Painting",
+		"Configurations": [
+			{
+				"Texture": "assets/empty_shelf_single.png",
+				"DisplaySize": { "X": 1, "Y": 1 },
+				"CollisionHeight": 2
+			},
+			{
+				"Texture": "assets/books_shelf_single_one.png",
+				"DisplaySize": { "X": 1, "Y": 1 },
+				"CollisionHeight": 2
+			},
+			{
+				"Texture": "assets/books_shelf_single_two.png",
+				"DisplaySize": { "X": 1, "Y": 1 },
+				"CollisionHeight": 2
+			},
+			{
+				"Texture": "assets/bird_skeleton_shelf.png",
+				"DisplaySize": { "X": 1, "Y": 1 },
+				"CollisionHeight": 2
+			},
+			{
+				"Texture": "assets/frog_skeleton_shelf.png",
+				"DisplaySize": { "X": 1, "Y": 1 },
+				"CollisionHeight": 2
+			},
+			{
+				"Texture": "assets/fish_skeleton_shelf.png",
+				"DisplaySize": { "X": 1, "Y": 1 },
+				"CollisionHeight": 2
+			},
+			{
+				"Texture": "assets/rat_skeleton_shelf.png",
+				"DisplaySize": { "X": 1, "Y": 1 },
+				"CollisionHeight": 2
+			},
+			{
+				"Texture": "assets/succulent_shelf.png",
+				"DisplaySize": { "X": 1, "Y": 1 },
+				"CollisionHeight": 2
+			},
+			{
+				"Texture": "assets/white_shell_shelf.png",
+				"DisplaySize": { "X": 1, "Y": 1 },
+				"CollisionHeight": 2
+			},
+			{
+				"Texture": "assets/brown_shell_shelf.png",
+				"DisplaySize": { "X": 1, "Y": 1 },
+				"CollisionHeight": 2
+			},
+			{
+				"Texture": "assets/ostrich_feather_shelf.png",
+				"DisplaySize": { "X": 1, "Y": 1 },
+				"CollisionHeight": 2
+			},
+			{
+				"Texture": "assets/chicken_feather_shelf.png",
+				"DisplaySize": { "X": 1, "Y": 1 },
+				"CollisionHeight": 2
+			},
+			{
+				"Texture": "assets/duck_feather_shelf.png",
+				"DisplaySize": { "X": 1, "Y": 1 },
+				"CollisionHeight": 2
+			},
+			{
+				"Texture": "assets/quail_egg_shelf.png",
+				"DisplaySize": { "X": 1, "Y": 1 },
+				"CollisionHeight": 2
+			},
+			{
+				"Texture": "assets/blue_egg_shelf.png",
+				"DisplaySize": { "X": 1, "Y": 1 },
+				"CollisionHeight": 2
+			},
+			{
+				"Texture": "assets/rock_shelf.png",
+				"DisplaySize": { "X": 1, "Y": 1 },
+				"CollisionHeight": 2
+			},
+			{
+				"Texture": "assets/driftwood_shelf.png",
+				"DisplaySize": { "X": 1, "Y": 1 },
+				"CollisionHeight": 2
+			},
+			{
+				"Texture": "assets/coral_shelf.png",
+				"DisplaySize": { "X": 1, "Y": 1 },
+				"CollisionHeight": 2
+			},
+			{
+				"Texture": "assets/sand_dollar_shelf.png",
+				"DisplaySize": { "X": 1, "Y": 1 },
+				"CollisionHeight": 2
+			},
+			{
+				"Texture": "assets/starfish_shelf.png",
+				"DisplaySize": { "X": 1, "Y": 1 },
+				"CollisionHeight": 2
+			},
+			{
+				"Texture": "assets/horseshoe_shelf.png",
+				"DisplaySize": { "X": 1, "Y": 1 },
+				"CollisionHeight": 2
+			},
+			{
+				"Texture": "assets/dino_scale_shelf.png",
+				"DisplaySize": { "X": 1, "Y": 1 },
+				"CollisionHeight": 2
+			},
+			{
+				"Texture": "assets/sm_mushroom_shelf.png",
+				"DisplaySize": { "X": 1, "Y": 1 },
+				"CollisionHeight": 2
+			},
+		]
+	},	
+	{
+		"$ItemType": "ShopEntry",
+		"ShopId": "Carpenter",
+		"Cost": 200,
+		"Item":  
+		{
+			"Type": "DGAItem",
+			"Value": "StarAmy.DecorativeWallShelves/Decorative Single Inset Shelf Lower"
+		}
+	},
+	{
+		"$ItemType": "Furniture",
+		"ID": "Decorative Single Inset Shelf Upper",
+		"Type": "Painting",
+		"Configurations": [
+			{
+				"Texture": "assets/empty_shelf_single.png",
+				"DisplaySize": { "X": 1, "Y": 1 },
+				"CollisionHeight": 1
+			},
+			{
+				"Texture": "assets/books_shelf_single_one.png",
+				"DisplaySize": { "X": 1, "Y": 1 },
+				"CollisionHeight": 1
+			},
+			{
+				"Texture": "assets/books_shelf_single_two.png",
+				"DisplaySize": { "X": 1, "Y": 1 },
+				"CollisionHeight": 1
+			},
+			{
+				"Texture": "assets/bird_skeleton_shelf.png",
+				"DisplaySize": { "X": 1, "Y": 1 },
+				"CollisionHeight": 1
+			},
+			{
+				"Texture": "assets/frog_skeleton_shelf.png",
+				"DisplaySize": { "X": 1, "Y": 1 },
+				"CollisionHeight": 1
+			},
+			{
+				"Texture": "assets/fish_skeleton_shelf.png",
+				"DisplaySize": { "X": 1, "Y": 1 },
+				"CollisionHeight": 1
+			},
+			{
+				"Texture": "assets/rat_skeleton_shelf.png",
+				"DisplaySize": { "X": 1, "Y": 1 },
+				"CollisionHeight": 1
+			},
+			{
+				"Texture": "assets/succulent_shelf.png",
+				"DisplaySize": { "X": 1, "Y": 1 },
+				"CollisionHeight": 1
+			},
+			{
+				"Texture": "assets/white_shell_shelf.png",
+				"DisplaySize": { "X": 1, "Y": 1 },
+				"CollisionHeight": 1
+			},
+			{
+				"Texture": "assets/brown_shell_shelf.png",
+				"DisplaySize": { "X": 1, "Y": 1 },
+				"CollisionHeight": 1
+			},
+			{
+				"Texture": "assets/ostrich_feather_shelf.png",
+				"DisplaySize": { "X": 1, "Y": 1 },
+				"CollisionHeight": 1
+			},
+			{
+				"Texture": "assets/chicken_feather_shelf.png",
+				"DisplaySize": { "X": 1, "Y": 1 },
+				"CollisionHeight": 1
+			},
+			{
+				"Texture": "assets/duck_feather_shelf.png",
+				"DisplaySize": { "X": 1, "Y": 1 },
+				"CollisionHeight": 1
+			},
+			{
+				"Texture": "assets/quail_egg_shelf.png",
+				"DisplaySize": { "X": 1, "Y": 1 },
+				"CollisionHeight": 1
+			},
+			{
+				"Texture": "assets/blue_egg_shelf.png",
+				"DisplaySize": { "X": 1, "Y": 1 },
+				"CollisionHeight": 1
+			},
+			{
+				"Texture": "assets/rock_shelf.png",
+				"DisplaySize": { "X": 1, "Y": 1 },
+				"CollisionHeight": 1
+			},
+			{
+				"Texture": "assets/driftwood_shelf.png",
+				"DisplaySize": { "X": 1, "Y": 1 },
+				"CollisionHeight": 1
+			},
+			{
+				"Texture": "assets/coral_shelf.png",
+				"DisplaySize": { "X": 1, "Y": 1 },
+				"CollisionHeight": 1
+			},
+			{
+				"Texture": "assets/sand_dollar_shelf.png",
+				"DisplaySize": { "X": 1, "Y": 1 },
+				"CollisionHeight": 1
+			},
+			{
+				"Texture": "assets/starfish_shelf.png",
+				"DisplaySize": { "X": 1, "Y": 1 },
+				"CollisionHeight": 1
+			},
+			{
+				"Texture": "assets/horseshoe_shelf.png",
+				"DisplaySize": { "X": 1, "Y": 1 },
+				"CollisionHeight": 1
+			},
+			{
+				"Texture": "assets/dino_scale_shelf.png",
+				"DisplaySize": { "X": 1, "Y": 1 },
+				"CollisionHeight": 1
+			},
+			{
+				"Texture": "assets/sm_mushroom_shelf.png",
+				"DisplaySize": { "X": 1, "Y": 1 },
+				"CollisionHeight": 1
+			},
+		]
+	},	
+	{
+		"$ItemType": "ShopEntry",
+		"ShopId": "Carpenter",
+		"Cost": 200,
+		"Item":  
+		{
+			"Type": "DGAItem",
+			"Value": "StarAmy.DecorativeWallShelves/Decorative Single Inset Shelf Upper"
+		}
+	},
+{
+		"$ItemType": "Furniture",
+		"ID": "Decorative Tall Inset Shelf",
+		"Type": "Painting",
+		"Configurations": [
+			{
+				"Texture": "assets/empty_shelf_double.png",
+				"DisplaySize": { "X": 1, "Y": 2 },
+				"CollisionHeight": 2
+			},
+			{
+				"Texture": "assets/empty_shelf_tall.png",
+				"DisplaySize": { "X": 1, "Y": 2 },
+				"CollisionHeight": 2
+			},
+			{
+				"Texture": "assets/books_shelf.png",
+				"DisplaySize": { "X": 1, "Y": 2 },
+				"CollisionHeight": 2
+			},
+			{
+				"Texture": "assets/bottles_shelf.png",
+				"DisplaySize": { "X": 1, "Y": 2 },
+				"CollisionHeight": 2
+			},
+			{
+				"Texture": "assets/lg_mushroom_shelf.png",
+				"DisplaySize": { "X": 1, "Y": 2 },
+				"CollisionHeight": 2
+			},
+			{
+				"Texture": "assets/rose_shelf.png",
+				"DisplaySize": { "X": 1, "Y": 2 },
+				"CollisionHeight": 2
+			},
+			{
+				"Texture": "assets/seedlings_shelf.png",
+				"DisplaySize": { "X": 1, "Y": 2 },
+				"CollisionHeight": 2
+			},
+			{
+				"Texture": "assets/plant_one_shelf.png",
+				"DisplaySize": { "X": 1, "Y": 2 },
+				"CollisionHeight": 2
+			},
+			{
+				"Texture": "assets/plant_two_shelf.png",
+				"DisplaySize": { "X": 1, "Y": 2 },
+				"CollisionHeight": 2
+			},
+			{
+				"Texture": "assets/fern_shelf.png",
+				"DisplaySize": { "X": 1, "Y": 2 },
+				"CollisionHeight": 2
+			},
+			{
+				"Texture": "assets/cattail_shelf.png",
+				"DisplaySize": { "X": 1, "Y": 2 },
+				"CollisionHeight": 2
+			},
+			{
+				"Texture": "assets/calla_lily_shelf.png",
+				"DisplaySize": { "X": 1, "Y": 2 },
+				"CollisionHeight": 2
+			},
+			{
+				"Texture": "assets/poppies_shelf.png",
+				"DisplaySize": { "X": 1, "Y": 2 },
+				"CollisionHeight": 2
+			},
+			{
+				"Texture": "assets/ginger_shelf.png",
+				"DisplaySize": { "X": 1, "Y": 2 },
+				"CollisionHeight": 2
+			},
+		]
+	},	
+	{
+		"$ItemType": "ShopEntry",
+		"ShopId": "Carpenter",
+		"Cost": 300,
+		"Item":  
+		{
+			"Type": "DGAItem",
+			"Value": "StarAmy.DecorativeWallShelves/Decorative Tall Inset Shelf"
+		}
+	},
+	{
+		"$ItemType": "Furniture",
+		"ID": "Decorative Wide Lower Inset Shelf",
+		"Type": "Painting",
+		"Configurations": [
+			{
+				"Texture": "assets/empty_shelf_wide.png",
+				"DisplaySize": { "X": 2, "Y": 1 },
+				"CollisionHeight": 2
+			},
+			{
+				"Texture": "assets/bat_skeleton_shelf.png",
+				"DisplaySize": { "X": 2, "Y": 1 },
+				"CollisionHeight": 2
+			},
+			{
+				"Texture": "assets/books_shelf_wide.png",
+				"DisplaySize": { "X": 2, "Y": 1 },
+				"CollisionHeight": 2
+			},
+			{
+				"Texture": "assets/bottles_shelf_wide.png",
+				"DisplaySize": { "X": 2, "Y": 1 },
+				"CollisionHeight": 2
+			},
+		
+		]
+	},	
+	{
+		"$ItemType": "ShopEntry",
+		"ShopId": "Carpenter",
+		"Cost": 300,
+		"Item":  
+		{
+			"Type": "DGAItem",
+			"Value": "StarAmy.DecorativeWallShelves/Decorative Wide Lower Inset Shelf"
+		}
+	},
+	{
+		"$ItemType": "Furniture",
+		"ID": "Decorative Wide Upper Inset Shelf",
+		"Type": "Painting",
+		"Configurations": [
+			{
+				"Texture": "assets/empty_shelf_wide.png",
+				"DisplaySize": { "X": 2, "Y": 1 },
+				"CollisionHeight": 1
+			},
+			{
+				"Texture": "assets/bat_skeleton_shelf.png",
+				"DisplaySize": { "X": 2, "Y": 1 },
+				"CollisionHeight": 1
+			},
+			{
+				"Texture": "assets/books_shelf_wide.png",
+				"DisplaySize": { "X": 2, "Y": 1 },
+				"CollisionHeight": 1
+			},
+			{
+				"Texture": "assets/bottles_shelf_wide.png",
+				"DisplaySize": { "X": 2, "Y": 1 },
+				"CollisionHeight": 1
+			},
+		]
+	},	
+	{
+		"$ItemType": "ShopEntry",
+		"ShopId": "Carpenter",
+		"Cost": 300,
+		"Item":  
+		{
+			"Type": "DGAItem",
+			"Value": "StarAmy.DecorativeWallShelves/Decorative Wide Upper Inset Shelf"
+		}
+	},
+	{
+		"$ItemType": "Furniture",
+		"ID": "Decorative Large Inset Shelf",
+		"Type": "Painting",
+		"Configurations": [
+			{
+				"Texture": "assets/empty_shelf_large.png",
+				"DisplaySize": { "X": 2, "Y": 2 },
+				"CollisionHeight": 2
+			},
+			{
+				"Texture": "assets/cuttings_shelf.png",
+				"DisplaySize": { "X": 2, "Y": 2 },
+				"CollisionHeight": 2
+			},
+			{
+				"Texture": "assets/hanging_cloches_shelf.png",
+				"DisplaySize": { "X": 2, "Y": 2 },
+				"CollisionHeight": 2
+			},
+			{
+				"Texture": "assets/large_jars_shelf.png",
+				"DisplaySize": { "X": 2, "Y": 2 },
+				"CollisionHeight": 2
+			},
+			{
+				"Texture": "assets/flower_shelf.png",
+				"DisplaySize": { "X": 2, "Y": 2 },
+				"CollisionHeight": 2
+			},
+		]
+	},	
+	{
+		"$ItemType": "ShopEntry",
+		"ShopId": "Carpenter",
+		"Cost": 400,
+		"Item":  
+		{
+			"Type": "DGAItem",
+			"Value": "StarAmy.DecorativeWallShelves/Decorative Large Inset Shelf"
+		}
+	},
+	{
+		"$ItemType": "Furniture",
+		"ID": "Decorative Single Lower Inset Shelf with Lighting",
+		"Type": "Sconce",
+		"Configurations": [
+			{
+				"Texture": "assets/candle_shelf.png",
+				"DisplaySize": { "X": 1, "Y": 1 },
+				"CollisionHeight": 2
+			},
+			{
+				"Texture": "assets/firefly_shelf.png:0@10, assets/firefly_shelf.png:1@10, assets/firefly_shelf.png:2@10, assets/firefly_shelf.png:3@10, assets/firefly_shelf.png:4@10",
+				"DisplaySize": { "X": 1, "Y": 1 },
+				"CollisionHeight": 2
+			},
+		]
+	},	
+	{
+		"$ItemType": "ShopEntry",
+		"ShopId": "Carpenter",
+		"Cost": 300,
+		"Item":  
+		{
+			"Type": "DGAItem",
+			"Value": "StarAmy.DecorativeWallShelves/Decorative Single Lower Inset Shelf with Lighting"
+		}
+	},
+	{
+		"$ItemType": "Furniture",
+		"ID": "Decorative Single Upper Inset Shelf with Lighting",
+		"Type": "Sconce",
+		"Configurations": [
+			{
+				"Texture": "assets/candle_shelf.png",
+				"DisplaySize": { "X": 1, "Y": 1 },
+				"CollisionHeight": 1
+			},
+			{
+				"Texture": "assets/firefly_shelf.png:0@10, assets/firefly_shelf.png:1@10, assets/firefly_shelf.png:2@10, assets/firefly_shelf.png:3@10, assets/firefly_shelf.png:4@10",
+				"DisplaySize": { "X": 1, "Y": 1 },
+				"CollisionHeight": 1
+			},
+		]
+	},	
+	{
+		"$ItemType": "ShopEntry",
+		"ShopId": "Carpenter",
+		"Cost": 300,
+		"Item":  
+		{
+			"Type": "DGAItem",
+			"Value": "StarAmy.DecorativeWallShelves/Decorative Single Upper Inset Shelf with Lighting"
+		}
+	},
+	{
+		"$ItemType": "Furniture",
+		"ID": "Decorative Wide Lower Inset Shelf with Lighting",
+		"Type": "Sconce",
+		"Configurations": [
+			{
+				"Texture": "assets/candles_shelf_wide.png",
+				"DisplaySize": { "X": 2, "Y": 1 },
+				"CollisionHeight": 2
+			},
+			
+		]
+	},	
+	{
+		"$ItemType": "ShopEntry",
+		"ShopId": "Carpenter",
+		"Cost": 400,
+		"Item":  
+		{
+			"Type": "DGAItem",
+			"Value": "StarAmy.DecorativeWallShelves/Decorative Wide Lower Inset Shelf with Lighting"
+		}
+	},
+	{
+		"$ItemType": "Furniture",
+		"ID": "Decorative Wide Upper Inset Shelf with Lighting",
+		"Type": "Sconce",
+		"Configurations": [
+			{
+				"Texture": "assets/candles_shelf_wide.png",
+				"DisplaySize": { "X": 2, "Y": 1 },
+				"CollisionHeight": 1
+			},
+			
+		]
+	},	
+	{
+		"$ItemType": "ShopEntry",
+		"ShopId": "Carpenter",
+		"Cost": 400,
+		"Item":  
+		{
+			"Type": "DGAItem",
+			"Value": "StarAmy.DecorativeWallShelves/Decorative Wide Upper Inset Shelf with Lighting"
+		}
+	},
+	{
+		"$ItemType": "Furniture",
+		"ID": "Decorative Tall Inset Shelf with Lighting",
+		"Type": "Sconce",
+		"Configurations": [
+			{
+				"Texture": "assets/lantern_shelf.png",
+				"DisplaySize": { "X": 1, "Y": 2 },
+				"CollisionHeight": 2
+			},
+			{
+				"Texture": "assets/tall_candle_shelf.png",
+				"DisplaySize": { "X": 1, "Y": 2 },
+				"CollisionHeight": 2
+			},
+			{
+				"Texture": "assets/copper_lantern_shelf.png",
+				"DisplaySize": { "X": 1, "Y": 2 },
+				"CollisionHeight": 2
+			},
+			{
+				"Texture": "assets/natural_candle_shelf.png",
+				"DisplaySize": { "X": 1, "Y": 2 },
+				"CollisionHeight": 2
+			},
+			{
+				"Texture": "assets/modern_candle_shelf.png",
+				"DisplaySize": { "X": 1, "Y": 2 },
+				"CollisionHeight": 2
+			},
+		]
+	},	
+	{
+		"$ItemType": "ShopEntry",
+		"ShopId": "Carpenter",
+		"Cost": 400,
+		"Item":  
+		{
+			"Type": "DGAItem",
+			"Value": "StarAmy.DecorativeWallShelves/Decorative Tall Inset Shelf with Lighting"
+		}
+	},
+]
